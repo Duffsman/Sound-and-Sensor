@@ -1,0 +1,34 @@
+fizzi	KEYWORD1
+fizziEnvelope KEYWORD1
+fizziButton   KEYWORD1
+
+initFizzi	    KEYWORD1
+updateFizzi	  KEYWORD1
+updateControl	KEYWORD1
+output	KEYWORD1
+
+
+
+setADSR		KEYWORD1
+setSustainLevel		KEYWORD1
+noteOn	          KEYWORD1
+isActive	KEYWORD1
+next	KEYWORD1
+hold  KEYWORD1
+setRetrigger  KEYWORD1
+
+
+
+setInterval   KEYWORD1
+get           KEYWORD1
+reset         KEYWORD1
+start         KEYWORD1
+stop          KEYWORD1
+
+
+update KEYWORD 1
+attach	KEYWORD1
+rose KEYWORD1
+fell KEYWORD1
+press KEYWORD1
+read  KEYWORD1
