@@ -1,5 +1,22 @@
 # Sound and Sensor
  
+### Sensors
+ - Lichtsensor (LDR)
+ - Potentiometer / Fader
+ - Button
+ - Gewicht (load cell)
+ - Kapazitiv (touch sensor)
+ - Halleffektsensor (Magnetfeld)
+ - Distanz (Ultraschall, LIDAR, TOFL, Infrarot)
+ - Temperatur (NTC)
+ - Vibrationssensor
+ - Neigungssensor / Gyroskopsensor
+ - Feuchtigkeit
+ - CO2 Sensor / Luftqualität / Staub
+ - Bewegung PIR 
+ - Sound -> Mikrofon 
+ - EEG -> Hirnwellen
+ 
 
 ### digital sound synthesis
 [Fundamentals of DDS](https://www.analog.com/media/en/training-seminars/tutorials/MT-085.pdf)  
@@ -14,7 +31,9 @@
 ### electronics basics
 [breadboard](https://computers.tutsplus.com/tutorials/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746)
 
-
+### CH340 Driver
+[MAC](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)  
+[WIN](http://www.wch.cn/download/CH341SER_ZIP.html)
 ### circuits
 ![old](fizzi_for_uno_schematics.png)
 ![new](alternative_output.png)
