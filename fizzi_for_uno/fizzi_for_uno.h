@@ -5,7 +5,7 @@
 #include <avr/pgmspace.h>
 #include <avr/io.h>
 #include <avr/interrupt.h>
-#include "sine.h"
+#include "waves.h"
 
 
 // size of the audiobuffer
