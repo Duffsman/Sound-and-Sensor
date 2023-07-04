@@ -2,7 +2,7 @@
 #include "fizzi_for_uno.h"
 
 
-long t = 0;
+unsigned long t = 0;
 // connect a potentiometer to pin A0
 const int potPin = A0;
 int potVal = 0;
